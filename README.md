@@ -4,6 +4,8 @@
 Jim3-4/Jim3-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Goni%20Archive&fontSize=70)
+
 <div align=center><h1>👋 Hi, I’m Jimin💖 </h1></div>
 <div align=center>
 
@@ -38,5 +40,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 -->
 </div>
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
