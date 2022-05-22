@@ -26,7 +26,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
 
-출처: https://byul91oh.tistory.com/213?category=995834 [개꼬 [: 개발하는 꼬바리]]
+
 
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
