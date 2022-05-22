@@ -20,7 +20,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm8941@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div>
 
 
 
@@ -34,5 +33,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
+</div>
 
 
