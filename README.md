@@ -1,54 +1,65 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=008FD3&height=200&section=header&text=Jimin%20|%20SAP%20ABAP%20Developer&animation=twinkling&fontAlign=50&fontSize=50)
 
-
-<!---
-Jim3-4/Jim3-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-<img src="https://camo.githubusercontent.com/0c391b5545096b63cac7def5d0f2eb5c4c43260323d456c2689cc841d2bbdf09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="흔들며" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=jimin!&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">-->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCA0A4&height=200&section=header&text=Jimin%20GitHub&animation=twinkling&fontAlign=50&fontSize=70)
 <div align=center>
+  <h1>👋 Hi, I’m Jimin! 🚀</h1>
+  <p><b>SAP ABAP Developer | Business Logic Enthusiast | Interface Specialist</b></p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Jim3-4&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <br>
 
-<div align=center><h1>👋 Hi, I’m Jimin💖 </h1></div>
+  <a href="https://applejam34.tistory.com/">
+    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat-square&logo=tistory&link=https://applejam34.tistory.com/"/>
+  </a>
+  <a href="mailto:kimjm8941@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  
+  <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jim3-4)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
-<a href="https://applejam34.tistory.com/">
-<img
-src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://applejam34.tistory.com/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
-<img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimjm8941@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  <h3>🛠 SAP Specialized Skills</h3>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/HANA%20DB-008FD3?style=for-the-badge&logo=sap&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/FI-Business_Module-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/CO-Business_Module-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/SD-Business_Module-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/MM-Business_Module-blue?style=flat-square">
 
-<br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <br><br>
 
+  <h3>🔗 Integration & Other Tech</h3>
+  <img src="https://img.shields.io/badge/RFC%20/%20BAPI-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/SAP%20JCo-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/REST%20API-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/RSA%20Encryption-lightgrey?style=flat-square">
+  <br>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 
-<br><!--
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
--->
-![Jim3-4's github stats](https://github-readme-stats.vercel.app/api?username=Jim3-4&show_icons=true)
-[![Jim3-4's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim3-4&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Jim3-4)
+  <br><br>
 
+  <div align=left style="display: inline-block; width: 80%;">
+    <h3>🎯 Focus Areas</h3>
+    <ul>
+      <li><b>EAI & Interface:</b> Cello Square 및 외부 시스템과의 RFC/REST API 연동 최적화</li>
+      <li><b>Financial Logic:</b> SAP FI/CO 모듈 중심의 비즈니스 프로세스 설계 및 리포트 개발</li>
+      <li><b>Security:</b> ABAP 기반의 RSA-OAEP 암호화 로직 구현 및 보안 패치 관리</li>
+      <li><b>Next Step:</b> Kotlin 기반 모바일 앱 개발과 SAP 비즈니스 로직의 결합 연구 중</li>
+    </ul>
+  </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FCA0A4&height=200&section=footer)
+  <br><br>
+
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jim3-4&show_icons=true&theme=transparent" alt="Jim3-4's github stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jim3-4&layout=compact&theme=transparent" alt="Jim3-4's top langs">
+
+  <br><br>
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=008FD3&height=150&section=footer)
 </div>
-
-
