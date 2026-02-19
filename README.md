@@ -4,10 +4,7 @@
   <h1>👋 Hi, I’m Jimin! </h1>
   <p><b>SAP FI Junior Developer | System Operator | Full-Stack Enthusiast</b></p>
   
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jim3-4&theme=flat&column=7&no-frame=true" alt="trophy" />
-  </a>
-  
+
   <br>
 
   <a href="https://applejam34.tistory.com/">
